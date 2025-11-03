@@ -1,0 +1,1 @@
+Integrating Base with decentralized frontends on Fleek.
