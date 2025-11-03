@@ -6,3 +6,4 @@
 - This repository is part of my 'Builder on Base' automation: committing learning notes. (commit 4/10)
 - This repository is part of my 'Builder on Base' automation: committing learning notes. (commit 5/10)
 - This repository is part of my 'Builder on Base' automation: committing learning notes. (commit 6/10)
+- This repository is part of my 'Builder on Base' automation: committing learning notes. (commit 7/10)
